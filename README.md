@@ -1,2 +1,2 @@
 # RenttheRunway
-Predicting Item Fit for Rent the Runway
+Predicting Item Fit Using a Random Forest Classifier for Rent the Runway
